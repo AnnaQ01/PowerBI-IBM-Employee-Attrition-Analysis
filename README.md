@@ -1,4 +1,7 @@
 This Employee Attrition Analysis Dashboard offers a detailed view of employee turnover across various dimensions within the organization and highlights critical factors influencing employee attrition, including department, salary, tenure, and job satisfaction. 
+![1](https://github.com/user-attachments/assets/eb418790-1609-4051-8bf5-47d2c5e9f18c)
+![2](https://github.com/user-attachments/assets/71fb5a64-06d7-4efa-abee-fd7c8f0bfb04)
+
 Key Factors Impacting Attrition Rate:
 - Department: The Research & Development department shows the highest attrition, suggesting specific challenges within this area.
 - Employees from Life Sciences and Medical fields have higher attrition rates, possibly due to better opportunities elsewhere.
